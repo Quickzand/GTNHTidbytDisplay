@@ -1,0 +1,24 @@
+{
+    "stats": {
+        "minecraft:picked_up": {
+            "minecraft:cobblestone": 8.0
+        },
+        "minecraft:used": {
+            "minecraft:diamond_pickaxe": 8.0
+        },
+        "minecraft:custom": {
+            "minecraft:play_time": 197.0,
+            "minecraft:walk_on_water_one_cm": 56.0,
+            "minecraft:time_since_death": 197.0,
+            "minecraft:walk_one_cm": 139.0,
+            "minecraft:sneak_time": 108.0,
+            "minecraft:total_world_time": 260.0,
+            "minecraft:time_since_rest": 197.0,
+            "minecraft:crouch_one_cm": 598.0
+        },
+        "minecraft:mined": {
+            "minecraft:stone": 8.0
+        }
+    },
+    "DataVersion": 4189.0
+}
