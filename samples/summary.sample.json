@@ -1,0 +1,41 @@
+{
+  "updated": 1791691152,
+  "quests_completed": 400,
+  "quests_total": 3500,
+  "chunks_claimed": 46,
+  "players": [
+    {
+      "name": "FriendTwo",
+      "playtime_s": 180000,
+      "deaths": 50,
+      "mob_kills": 200,
+      "distance_m": 1200000,
+      "gt_ores_mined": 800,
+      "gt_machines_crafted": 32,
+      "gt_items_crafted": 2032,
+      "quests": 160
+    },
+    {
+      "name": "FriendOne",
+      "playtime_s": 315000,
+      "deaths": 28,
+      "mob_kills": 350,
+      "distance_m": 2100000,
+      "gt_ores_mined": 1400,
+      "gt_machines_crafted": 56,
+      "gt_items_crafted": 3556,
+      "quests": 280
+    },
+    {
+      "name": "Quickzand",
+      "playtime_s": 450000,
+      "deaths": 20,
+      "mob_kills": 500,
+      "distance_m": 3000000,
+      "gt_ores_mined": 2000,
+      "gt_machines_crafted": 80,
+      "gt_items_crafted": 5080,
+      "quests": 400
+    }
+  ]
+}

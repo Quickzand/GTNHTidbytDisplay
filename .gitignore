@@ -1,0 +1,7 @@
+# Downloaded world data (large, and full of player data)
+exporter/Longie/
+exporter/*.zip
+gtnhSummary.json
+.DS_Store
+dist/
+__pycache__/
